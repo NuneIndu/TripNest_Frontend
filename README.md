@@ -745,60 +745,8 @@ TripNest provided practical experience in building a complete full-stack applica
 - Team collaboration
 - Deployment and troubleshooting
 
----
+---\
 
-# 🤝 Contributing
-
-Contributions are welcome.
-
-To contribute:
-
-```bash
-# Fork the repository
-
-# Clone your fork
-git clone <YOUR_FORK_URL>
-
-# Create a new branch
-git checkout -b feature/new-feature
-
-# Make your changes
-
-# Commit your changes
-git add .
-git commit -m "Add new feature"
-
-# Push the branch
-git push origin feature/new-feature
-```
-
-Then create a Pull Request.
-
----
-
-# 📄 License
-
-This project is currently developed for **educational and academic purposes**.
-
-If you plan to distribute the project publicly, add an appropriate open-source license such as MIT.
-
----
-
-# 👥 Team
-
-**TripNest** was developed as a collaborative full-stack project.
-
-### Technologies Used
-
-`Java` • `Spring Boot` • `React` • `Vite` • `PostgreSQL` • `Supabase` • `Hibernate` • `Spring Security` • `JWT` • `OAuth2` • `Git` • `GitHub`
-
----
-
-# ⭐ Support
-
-If you find this project useful, consider giving the repository a ⭐ on GitHub.
-
----
 
 ## 🌍 TripNest
 
