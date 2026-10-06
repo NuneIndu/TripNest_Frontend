@@ -326,7 +326,7 @@ git --version
 # 📥 Clone the Repository
 
 ```bash
-git clone <YOUR_REPOSITORY_URL>
+git clone https://github.com/NuneIndu/TripNest_Frontend
 ```
 
 Navigate into the project:
